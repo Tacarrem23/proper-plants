@@ -76,4 +76,5 @@ const PLANTS = [
   },
 ];
 
+
 export default PLANTS;
